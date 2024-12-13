@@ -5,7 +5,7 @@ My passion is to create: To create education, entertainment, and inspiration.
 
 I'm just a guy who likes studying and doing fun stuff. Feel free to reach out!
 
-Still isn't used to using GitHub (yet)
+[Check out some of my works here!](https://daykungza.github.io/)
 
 ![DayKungZa's Stats](https://github-readme-stats.vercel.app/api?username=DayKungZa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
