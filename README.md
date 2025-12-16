@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Tawan Jitroongruangnij
-1st year at Computer Engineering and Digital Technology, Chulalongkorn University
+2nd year at Computer Engineering and Digital Technology, Chulalongkorn University
 
 My passion is to create: To create education, entertainment, and inspiration.
 
